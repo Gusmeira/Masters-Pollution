@@ -1,0 +1,33 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+.env/
+venv-3.12/
+.venv-3.12/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VSCode settings
+.vscode/
+
+# Raw bases
+Data/
+COBEQ 25/
+TCC 24/
+TimeObjectModule.py
+Data/CAMS/processed/
+
+# Ignora tudo dentro de RQ1
+Masters 26/Results/RQ1/*
+!Masters 26/Results/RQ1/metrics.csv
+!Masters 26/Results/RQ1/full/
+!Masters 26/Results/RQ1/full/**
+
+# Ignora tudo dentro de RQ1
+Masters 26/Results/RQ2/*
+!Masters 26/Results/RQ2/metrics.csv
+!Masters 26/Results/RQ2/full/
+!Masters 26/Results/RQ2/full/**
