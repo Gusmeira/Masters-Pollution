@@ -20,14 +20,4 @@ TCC 24/
 TimeObjectModule.py
 Data/CAMS/processed/
 
-# Ignora tudo dentro de RQ1
-Masters 26/Results/RQ1/*
-!Masters 26/Results/RQ1/metrics.csv
-!Masters 26/Results/RQ1/full/
-!Masters 26/Results/RQ1/full/**
-
-# Ignora tudo dentro de RQ1
-Masters 26/Results/RQ2/*
-!Masters 26/Results/RQ2/metrics.csv
-!Masters 26/Results/RQ2/full/
-!Masters 26/Results/RQ2/full/**
+Masters 26/Results/
